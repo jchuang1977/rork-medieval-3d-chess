@@ -1,5 +1,7 @@
 # King's Gambit — Medieval 3D Chess
 
+[繁體中文](README.zh_tw.md)
+
 ![Sculpted Ivory Kingdom knights, bishops and a crowned king facing the Sun Empire's feathered warriors across a marble-and-basalt board, each figure carrying a rank crest above its head](docs/board.jpg)
 
 <p align="center"><sub>The Ivory Kingdom mustered against the Sun Empire — rank crests up, muster rings lit, before the first move.</sub></p>
